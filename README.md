@@ -8,7 +8,7 @@ Layout para página de Academia feito com Materialize e Jquery
    <li>Wireframe</li>   
 </ul>
   
-<hr>
+
 
 <h3>Codificação</h3>
 <ul>
@@ -17,8 +17,7 @@ Layout para página de Academia feito com Materialize e Jquery
   <li>Materialize</li>
   <li>Jquery</li>  
 </ul>
- 
- <hr>
+
 
  <h3>Ajustes Finais</h3>
  <ul>  
@@ -30,5 +29,6 @@ Layout para página de Academia feito com Materialize e Jquery
 # Screenshot 
 
 :computer: <a href="https://centroboaforma.netlify.com/">Demo</a> 
+<br><br>
 ![ScreenShot](https://github.com/nonatodiego/Projeto-centro_boa_forma/blob/master/screencapture-centroboaforma-netlify-2019-01-30-13_03_51.png)
 
