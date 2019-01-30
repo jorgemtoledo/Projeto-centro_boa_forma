@@ -2,7 +2,7 @@
 Layout para página de Academia feito com Materialize e Jquery
 
 
-# Screeshot :point_down:
+# Screenshot :point_down:
 
 <a href="https://centroboaforma.netlify.com/">
 
